@@ -4,4 +4,4 @@ Jogue em: https://joao-v-girade.github.io/codigo-etico-web/
 
 Depois que carregar, clique na tela para começar.
 
-Publicado em 25/11/2026 14:03. O código fica num repositório privado.
+Publicado em 25/11/2026 23:38. O código fica num repositório privado.
